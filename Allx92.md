@@ -1,11 +1,11 @@
-# Introduction
+# Introduction 
 
 
-Welcome to my Documentation Journey 
+Welcome to my Documentation Journey  :wave:
 
-~ For those who exalt themselves will be humbled, and those who humble themselves will be exalted. ~ **Matthew 23:12**
+> ~ For those who exalt themselves will be humbled, and those who humble themselves will be exalted. ~ **Matthew 23:12**
 
-![Allx92_4](./assets/Allx92_4.jpg)
+![Allx92_4](assets/Allx92_4.jpg)
 
 
 
@@ -17,10 +17,10 @@ When I'm not engrossed in reading about some tech news, language learning or wor
 
 As of late, I've recently started a Data Technicaian role. This I imagine would serve as a catalyst for growth as I try to immerse myself in this new learning journey. So far I've met some incredibly knowledgeable people of various walks and so feel very grateful to learn from and work with my team, not to mention being apart of such a meaningful Digitization project.
 
-Cheers!
+Cheers! :clinking_glasses:
 
 # Learning Github
-## Time to Practice
+## Time to Practice :watch:
 Sample repository for laying the foundational knowledge.
 
 I am feeling **optimistic** about learning markdown language

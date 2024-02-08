@@ -5,7 +5,7 @@ Welcome to my Documentation Journey
 
 ~ For those who exalt themselves will be humbled, and those who humble themselves will be exalted. ~ **Matthew 23:12**
 
-![Allx92_4](./assets/Allx92_4.jpeg)
+![Allx92_4](./assets/Allx92_4.jpg)
 
 
 

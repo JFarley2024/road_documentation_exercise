@@ -57,13 +57,13 @@ All cats descend from the Felidae family, sharing similar musculature, cardiovas
 
 **Species Overview**:
 
-    *Lion: Africa and India's pride, known for its social structure and formidable prides.
-    *Tiger: Asia's sovereign, with its iconic orange coat adorned by bold black stripes.
-    *Leopard: Master of camouflage, blending pale hues with intricate rosettes.
-    *Snow Leopard: Guardian of the icy heights, navigating Central and South Asia's rugged peaks.
-    *Jaguar: The Amazon's shadowy sentinel, boasting a coat pattern as enigmatic as its realm.
-    *Cougar: America's stealthy wanderer, a symbol of adaptability in diverse habitats.
-    *Cheetah: Earth's speedster, streaking across the savannas with unparalleled swiftness and grace.
+    Lion: Africa and India's pride, known for its social structure and formidable prides.
+    Tiger: Asia's sovereign, with its iconic orange coat adorned by bold black stripes.
+    Leopard: Master of camouflage, blending pale hues with intricate rosettes.
+    Snow Leopard: Guardian of the icy heights, navigating Central and South Asia's rugged peaks.
+    Jaguar: The Amazon's shadowy sentinel, boasting a coat pattern as enigmatic as its realm.
+    Cougar: America's stealthy wanderer, a symbol of adaptability in diverse habitats.
+    Cheetah: Earth's speedster, streaking across the savannas with unparalleled swiftness and grace.
 
 ## Conclusion
 

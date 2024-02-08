@@ -4,6 +4,7 @@ Every year my family come together for a *family picnic*. The annual picnic is a
 
 ## Picnic Location
 It was unanimously agreed that this year, the picnic will be held at what I consider to be the most beautiful and serene park in Barbados, **Farley Hill National Park**. 
+
 ![small-spot-but-beautiful](https://github.com/Bluee21/road_documentation_exercise/blob/main/assets/Svsonnia_001.jpg)
 
 -----

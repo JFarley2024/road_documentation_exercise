@@ -48,7 +48,26 @@ All cats descend from the Felidae family, sharing similar musculature, cardiovas
 
 	 * The cheetah (Acinonyx jubatus) is a large cat and the fastest land animal. It has a tawny to creamy white or pale buff fur that is marked with evenly spaced, solid black spots. The head is small and rounded, with a short snout and black tear-like facial streaks. It reaches 67–94 cm (26–37 in) at the shoulder, and the head-and-body length is between 1.1 and 1.5 m (3 ft 7 in and 4 ft 11 in). Adults weigh between 21 and 72 kg (46 and 159 lb). The cheetah is capable of running at 93 to 104 km/h (58 to 65 mph); it has evolved specialized adaptations for speed, including a light build, long thin legs and a long tail. 
 
+## Summary 
+* **Definition**: Big cats encompass the majestic tigers, lions, jaguars, leopards, and snow leopards, alongside the swift cheetah and the adaptable cougar.
 
+* **Traits**: Sharing a lineage in the Felidae family, big cats exhibit prowess in musculature, cardiovascular systems, and behavior. Yet, the cheetah and cougar stand apart with their unique physiques.
+
+* **Habitats**: Roaming across continents, from the Americas to Africa and Asia, these magnificent creatures command diverse ecosystems, with some, like the leopard and tiger, even venturing into the European wilderness.
+
+**Species Overview**:
+
+    *Lion: Africa and India's pride, known for its social structure and formidable prides.
+    *Tiger: Asia's sovereign, with its iconic orange coat adorned by bold black stripes.
+    *Leopard: Master of camouflage, blending pale hues with intricate rosettes.
+    *Snow Leopard: Guardian of the icy heights, navigating Central and South Asia's rugged peaks.
+    *Jaguar: The Amazon's shadowy sentinel, boasting a coat pattern as enigmatic as its realm.
+    *Cougar: America's stealthy wanderer, a symbol of adaptability in diverse habitats.
+    *Cheetah: Earth's speedster, streaking across the savannas with unparalleled swiftness and grace.
+
+## Conclusion
+
+In this vibrant tapestry of life, each big cat weaves its own story of survival and resilience, captivating hearts and minds with every graceful stride and powerful roar.
 
 __________
 _____

@@ -5,7 +5,7 @@ Welcome to my Documentation Journey
 
 ~ For those who exalt themselves will be humbled, and those who humble themselves will be exalted. ~ **Matthew 23:12**
 
-![Allx92_4](https://github.com/Allx92/road_documentation_exercise/assets/159260476/c163a11b-f6db-4adf-b9fc-fe0e67ef7d9e)
+![Allx92_4](./assets/Allx92_4.jpeg)
 
 
 

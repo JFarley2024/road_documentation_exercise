@@ -65,4 +65,4 @@ Speaking of cookies, they share metaphorical similarities with computer files, d
 Despite these metaphorical similarities, it's important to remember the fundamental differences in their nature—one being a tangible, edible product and the other being intangible and digital.
 
 ## Happy Baking!
-![image_3](assets/Iamthebarrow.jpeg)
+![image_3](https://raw.githubusercontent.com/Iamthebarrow/road_documentation_exercise/main/assets/DALL%C2%B7E%202024-02-08%2022.25.55%20-%20A%20whimsical%20illustration%20that%20blends%20the%20digital%20and%20culinary%20worlds%2C%20showcasing%20a%20kitchen%20scene%20where%20a%20chef%20is%20baking%20cookies%20in%20the%20shape%20of%20variou.webp)

@@ -4,7 +4,7 @@ _This is based on the tutorial found at [Programming Historian](https://programm
 
 ![Data Science Programming Languages Faceoff](assets/dario-j-c_4.png "I'm the data science programming language!")
 
-The comparison between [`R`](https://www.r-project.org/), [`Python`](https://www.python.org/) and [`Julia`](https://julialang.org/) in the field of data science can seem an arbitrary one as they all have their own benefits and trade-offs. It greatly depends on what your requirements are.
+The comparison between [`R`](https://www.r-project.org/), [`Python`](https://www.python.org/) and [`Julia`](https://julialang.org/) in the field of data science can seem an arbitrary one as they all have their benefits and trade-offs. It greatly depends on what your requirements are.
 
 
 # What Is Data Science?
@@ -16,10 +16,10 @@ The comparison between [`R`](https://www.r-project.org/), [`Python`](https://www
 
 I've always viewed mathematics, specifically statistics as the largest part of data science.
 
-When data science was starting to be hailed as the "sexiest job of the 21st century"[^2], I took note. Who doesn't want to be described by that moniker in some capacity? Yet chasing the dream seemed far away, especially with my previous viewpoint on it, a place of purely numbers and statistics.
+When data science was starting to be hailed as the "sexiest job of the 21st century"[^2], I took note. Who doesn't want to be described by that moniker in some capacity? Yet chasing the dream seemed far away, especially with my previous viewpoint, a place of purely numbers and statistics.
 
 But my viewpoint has evolved, even if the world still attaches the same moniker[^3] to it. Data Science can be described as a "discipline that allows you to transform raw data into understanding, insight, and knowledge."[^4]
-There is **_a lot_** hidden within the word [_transform_](https://arxiv.org/abs/2011.01808), but all we will say on that if you're not careful, it can be [dark and full of terrors](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwcmRiaDk3NWt3MmZmYXcxc3ozaTg4dHZvZHM3MGJyZ2toZXozdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qw4X3FN8Elnz2ew3UFa/giphy.gif).
+There is **_a lot_** hidden within the word [_transform_](https://arxiv.org/abs/2011.01808), but all we will say is that if you're not careful, it can be [dark and full of terrors](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwcmRiaDk3NWt3MmZmYXcxc3ozaTg4dHZvZHM3MGJyZ2toZXozdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qw4X3FN8Elnz2ew3UFa/giphy.gif).
 
 **<ins>Always</ins>** have a _good_ guide.
 
@@ -32,7 +32,7 @@ A good guide will likely lead you to choose (at least) one of the three starter 
 >
 > _Attributed to Oscar Wilde in The Daily News Leader of Staunton, Virginia_
 
-I strongly dislike the above quote, and am of the opinion many in the field of computer science would agree with me. Instead, I much more prefer the artists’ viewpoint of [inspiration](https://might-could.com/essays/inspiration-vs-imitation-how-to-copy-as-an-artist/).
+I strongly dislike the above quote and am of the opinion many in the field of computer science would agree with me. Instead, I much more prefer the artists’ viewpoint of [inspiration](https://might-could.com/essays/inspiration-vs-imitation-how-to-copy-as-an-artist/).
 
 Even in the narrow range of computer languages, taking inspiration is an acceptable norm.
 
@@ -43,9 +43,9 @@ Python was designed to be a 'descendant of the ABC language that would appeal to
 Julia itself was inspired by R and Python, plus a few other languages[^8].
 
 
-In the grand scheme of things, with the rise of data science, ideas have been shared and developed between practitioners and thus between languages, after all its the communities that shape them. It's easy then for me to thus comfortably state that data science tasks can be done quite well in any language, then the choice boils to a difference of degree and not of kind.
+In the grand scheme of things, with the rise of data science, ideas have been shared and developed between practitioners and thus between languages, after all, it is the communities that shape them. It's easy then for me to thus comfortably state that data science tasks can be done quite well in any language, then the choice boils to a difference of degree and not of kind.
 
-Now I'm supposed to actually *compare* the languages, and I will... at some point. For now let's settle for a list of **definitely opinionated surmising** which may or may not trigger you.
+Now I'm supposed to actually *compare* the languages, and I will... at some point. For now, let's settle for a list of **definitely opinionated surmising** which may or may not trigger you.
 
 
 ## R
@@ -53,11 +53,11 @@ Now I'm supposed to actually *compare* the languages, and I will... at some poin
 <img src="assets/dario-j-c_2.svg" alt="R Logo" width="20%"/>
 
 - **Core Unique Ideas**: R is a programming language built for statistics.
-  - It offers data-wrangling packages, visualization tools, and supports statistical models while being optimal for academia (think r-markdown and now quarto for everyone).
+  - It offers data-wrangling packages, and visualization tools, and supports statistical models while being optimal for academia (think r-markdown and now quarto for everyone).
 - **Strengths**: R is easy to learn and can help data scientists handle multiple forms of data with ease.
-  - It provides excellent support for data wrangling, and has a vast array of statistical packages and facilitates quality plotting and graphing.
+  - It provides excellent support for data wrangling and has a vast array of statistical packages and facilitates quality plotting and graphing.
 - **Weaknesses**: R is slower and more memory-intensive than the others.
-  - It can struggle with big data sets, as it's designed to load the entire data into memory. (They are packages and backends to get around this, but it’s not feasible in the standard library.)
+  - It can struggle with big data sets, as it's designed to load the entire data into memory. (There are packages and backends to get around this, but it’s not feasible in the standard library.)
 - **When to Favour**: R is favoured when the task involves statistical models, data visualization, and academia-related work.
 
 
@@ -68,8 +68,8 @@ Now I'm supposed to actually *compare* the languages, and I will... at some poin
 
 - **Core Unique Ideas**: Python is a high-level, general-purpose programming language that is widely used in data science, machine learning, artificial intelligence, and server & web applications.
 - **Strengths**: Python is known for its powerful features, flexibility, and ease of use.
-  - It has an extremely large user base, ecosystem and an accompanying wide range of libraries and tools, including for data science. It's general language nature and wide adoption means it's a better glue language than the others.
-- **Weaknesses**: Python was not designed from the ground up for statistical work and thus lags behind R in packages and documentation in this field. (Julia is quite young in comparison, so my opinion is Python has it beat there. This does not apply to machine learning however, where Python stands on top.)
+  - It has an extremely large user base, ecosystem and an accompanying wide range of libraries and tools, including for data science. Its general language nature and wide adoption mean it's a better glue language than the others.
+- **Weaknesses**: Python was not designed from the ground up for statistical work and thus lags behind R in packages and documentation in this field. (Julia is quite young in comparison, so my opinion is Python has it beat there. This does not apply to machine learning, however, where Python stands on top.)
 - **When to Favour**: Python is favoured when the task involves machine learning, artificial intelligence, server & web applications, or any other task where its myriad of packages and ability as a 'glue language' such as in production, comes to fore.
 
 
@@ -81,16 +81,16 @@ Now I'm supposed to actually *compare* the languages, and I will... at some poin
 - **Core Unique Ideas**: Julia is a high-performance programming language introduced for technical computing, with syntax that is familiar to users of other technical computing environments.
 - **Strengths**: Julia is fast, and can often be faster than the other languages.
   - It states it solves the two-language problem (which in my humble, naive opinion, isn't a problem, unless you're a developer who has hit the boundaries of your computation speed, and/or development speed). Julia is primarily written in Julia, and that coupled with multiple dispatch[^9] makes it easy to extend and specialise.
-  - It has an excellent and expressive syntax which gives probably the best trade-off between static and dynamic typing, that with its well thought out types for handling numbers makes it really nice for certain tasks.
+  - It has an excellent and expressive syntax which gives probably the best trade-off between static and dynamic typing, which with its well-thought-out types for handling numbers makes it nice for certain tasks.
   - It's also designed with parallel and distributed computing in mind, making it easy to scale up data-intensive computation (although I've no current experience in this).
-- **Weaknesses**: Julia is a relatively new language and thus has a smaller community and less diverse packages compared to the other languages. There's also the risk of trying something new[^10], which admittedly is a debateable can depend on use case and preference.
+- **Weaknesses**: Julia is a relatively new language and thus has a smaller community and less diverse packages compared to the other languages. There's also the risk of trying something new[^10], which admittedly is debatable and can depend on the use case and preference.
 - **When to Favour**: Julia is favoured for data science tasks that require high performance.
 
 
 # Conclusion
 Regardless of your choice remember two things:
 
-Your choice will put great deal of power at your fingertips and
+Your choice will put a great deal of power at your fingertips and
 > With Great Power, Comes Great Responsibility
 
 So don't make it a burden for yourself, instead just remember
